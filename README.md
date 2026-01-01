@@ -58,8 +58,7 @@ Currently working as a **Full-Stack Blockchain Developer @ Lampros Tech**, contr
 - Dockerized services and automation test jobs
 
 **Tech:** Docker, Prometheus, Grafana, Loki, Node.js  
-🔗 Repo: _Pin this repository_
-
+🔗 Repo: https://github.com/trigg3rX
 ---
 
 ### 🔹 InvestRight
