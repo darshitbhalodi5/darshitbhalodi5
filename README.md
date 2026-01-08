@@ -6,18 +6,15 @@ I build **production-grade decentralized systems** with a strong focus on **onbo
 
 Currently working as a **Full-Stack Blockchain Developer @ Lampros Tech**, contributing to **TriggerX**, a cross-chain automation platform.
 
-🌐 **Portfolio:** https://www.darshitbhalodi.xyz  
-📍 **Location:** India  
-💼 **Open to:** Web3, Backend, Infra, DevOps-leaning roles  
+💼 **Technical Interests:** Blockchain/Web3, Backend Development, Infrastructure Engineering, DevOps Practices 
 
 ---
 
-## 🧠 What I Work On
+## What I Work On
 
-### 🔗 Blockchain & Web3
+### ⛓️ Blockchain & Web3
 - Smart contracts using **Solidity**
 - Account abstraction & **gasless user flows**
-- Cross-chain automation systems
 - On-chain reputation & attestations
 
 ### ⚙️ Backend & Infrastructure
@@ -26,7 +23,7 @@ Currently working as a **Full-Stack Blockchain Developer @ Lampros Tech**, contr
 - Dockerized services & **PM2** deployments
 - Linux server & VPS administration
 
-### 📊 Observability & Reliability
+### 🕵 Observability & Reliability
 - Monitoring with **Prometheus, Grafana, Loki, Tempo**
 - Alerting via **Alertmanager**
 - Infra health dashboards & failure tracking
@@ -50,9 +47,9 @@ Currently working as a **Full-Stack Blockchain Developer @ Lampros Tech**, contr
 ---
 
 ### 🔹 TriggerX
-**Cross-chain automation & keeper infrastructure**
+**Automation & keeper infrastructure**
 
-- Designed and implemented full observability stack
+- Designed and implemented a full observability stack
 - Dashboards for keeper uptime & trigger failures
 - Alerting system for infra & automation health
 - Dockerized services and automation test jobs
@@ -88,22 +85,19 @@ Currently working as a **Full-Stack Blockchain Developer @ Lampros Tech**, contr
 ## 🛠️ Tech Stack
 
 ### Languages
-JavaScript • TypeScript • Solidity • Go • Python • Bash
-
+JavaScript • TypeScript • Solidity • Bash
 
 ### Frameworks & Libraries
-Next.js • React • ethers.js • Express • TailwindCSS
-
+Next.js • React • ethers.js • TailwindCSS 
 
 ### Infrastructure & DevOps
-Docker • PM2 • NGINX • Linux • AWS EC2
+Docker • PM2 • NGINX • Linux • AWS EC2 • VPS
 
 ### Databases
 MongoDB • ScyllaDB • MySQL • PostgreSQL
 
 ### Monitoring & Observability
 Prometheus • Grafana • Loki • Tempo • Alertmanager • New Relic
-
 
 ---
 
@@ -114,20 +108,4 @@ Prometheus • Grafana • Loki • Tempo • Alertmanager • New Relic
 
 ---
 
-## 🏆 Achievements
-
-- 🏅 **ETHGlobal San Francisco 2024** — InvestRight
-- 🎓 **B.Tech CSE (CGPA 9.57)** — Pandit Deendayal Energy University
-- 📜 **TCS iON Career Edge Certification**
-
----
-
-## 🤝 Let's Connect
-
-- 🌐 Portfolio: https://www.darshitbhalodi.xyz  
-- 🐙 GitHub: https://github.com/DarshitBhalodi  
-- 💼 LinkedIn: _(add link)_
-
----
-
-> *I enjoy building systems that don’t just work — but are observable, secure, and scalable.*
+> *I enjoy building systems that don’t just work, but are observable, secure, and scalable.*
