@@ -101,16 +101,19 @@ I specialize in building **production-grade decentralized systems** with a stron
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Languages
-JavaScript • TypeScript • Solidity • Bash
+### Blockchain & Web3
+Solidity • Ethereum • ethers.js • Web3.js • The Graph • Foundry • Hardhat • Tenderly
 
-### Frameworks & Libraries
-Next.js • React • ethers.js • TailwindCSS 
+### Frontend & Frameworks
+Next.js • React • JavaScript • TypeScript • TailwindCSS 
 
-### Infrastructure & DevOps
-Docker • PM2 • NGINX • Linux • AWS EC2 • VPS
+### Backend & APIs
+Node.js • Express.js • REST API 
+
+### DevOps & Infrastructure
+Docker • PM2 • NGINX • Linux • AWS • VPS • Bash
 
 ### Databases
 MongoDB • ScyllaDB • MySQL • PostgreSQL
