@@ -103,7 +103,7 @@ Prometheus • Grafana • Loki • Tempo • Alertmanager • New Relic
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarshitBhalodi&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshitbhalodi5&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshitBhalodi&layout=compact&theme=tokyonight)
 
 ---
