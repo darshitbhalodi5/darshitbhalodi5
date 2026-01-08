@@ -53,29 +53,26 @@ I specialize in building **production-grade decentralized systems** with a stron
 ## Featured Projects
 
 ### 🔹 [TriggerX](https://github.com/trigg3rX)
-**Decentralized Cross-Chain Automation Platform** • *Docker, Prometheus, Grafana, Node.js*
+**Decentralized Automation Platform** • *Docker, Prometheus, Grafana, Loki, Tempo, Alertmanager, NGINX, Next.js, Safe Wallet*
 
 Contributing to TriggerX's mission to bring automated, secure task execution to multiple blockchain networks:
-
-**My Contributions:**
-- 📊 **Complete Observability Stack** - Architected and deployed comprehensive monitoring infrastructure
+- **Complete Observability Stack** - Architected and deployed comprehensive monitoring infrastructure
   - Implemented Prometheus for metrics collection and time-series data
   - Built custom Grafana dashboards for real-time keeper performance tracking
   - Integrated Loki for centralized log aggregation across distributed systems
   - Set up Tempo for distributed tracing and request flow visualization
   
-- 🚨 **Alerting & Incident Response** - Designed intelligent alerting system
-  - Configured Alertmanager for multi-channel notifications (Slack, Email, PagerDuty)
-  - Created custom alert rules for keeper uptime, trigger failures, and gas price anomalies
+- **Alerting & Incident Response** - Designed intelligent alerting system
+  - Configured Alertmanager for multi-channel notifications (Slack, Email)
+  - Created custom alert rules for keeper uptime, trigger failures
   - Built automated escalation policies for critical infrastructure issues
-  
-- 🐳 **Infrastructure & DevOps** - Containerized and automated deployment pipelines
-  - Dockerized all microservices with multi-stage builds for optimized images
-  - Created Docker Compose orchestration for local development environments
-  - Implemented automated testing workflows for keeper reliability validation
-  - Designed CI/CD pipelines for continuous integration and deployment
 
-**Tech Stack:** Docker, Prometheus, Grafana, Loki, Tempo, Alertmanager, Node.js, EigenLayer AVS, Solidity
+- **Other Contributions**
+  - Implemented & Integrated the entire safe wallet dashboard
+  - Implemented & Integrated EigenLayer API in Keeper Dashboard 
+  - Set up NGINX configuration, set up the  Header, and SSL/TLS level security
+
+**Tech Stack:** Docker, Prometheus, Grafana, Loki, Tempo, Alertmanager, NGINX, Next.js, Safe Wallet, Header & SSL Security, EigenLayer AVS
 
 [![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trigg3rX)
 
