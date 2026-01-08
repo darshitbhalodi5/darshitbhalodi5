@@ -101,11 +101,4 @@ Prometheus • Grafana • Loki • Tempo • Alertmanager • New Relic
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshitbhalodi5&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshitBhalodi&layout=compact&theme=tokyonight)
-
----
-
 > *I enjoy building systems that don’t just work, but are observable, secure, and scalable.*
